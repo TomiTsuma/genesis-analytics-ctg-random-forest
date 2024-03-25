@@ -1,0 +1,9 @@
+pandas
+pydantic==1.10.9
+scikit-learn==1.1.2
+ray[tune]
+ray[default]
+uvicorn[standard]
+seaborn
+numpy
+plotly
